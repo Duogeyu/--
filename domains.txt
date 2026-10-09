@@ -1,0 +1,102 @@
+# 每行一个基础词；冒号后面是要查的后缀（默认 com）
+# AI 智能体付款与身份
+agenticpay:com,ai
+agentcheckout:com,ai
+knowyouragent:com,ai
+agentescrow:com,ai
+agentledger:com,ai
+agentpassport:com,ai
+agentwallet:com,ai
+agentid:com,ai
+agentpayments:com,ai
+agentbilling:com,ai
+agentinvoice:com,ai
+agentmerchant:com,ai
+agentkyc:com,ai
+verifiedagent:com,ai
+trustedagents:com,ai
+agentspend:com,ai
+agentcard:com,ai
+kya:ai
+# AI 编程新词
+agenticengineering:com,ai
+agenticengineer:com,ai
+vibeengineering:com,ai
+vibeengineer:com,ai
+contextengineering:com,ai
+contextengineer:com,ai
+harnessdesign:com,ai
+harnessengineering:com,ai
+agenteval:com,ai
+agentevals:com,ai
+contextops:com,ai
+# 智能体运维与治理
+agentobservability:com,ai
+agentgovernance:com,ai
+agentaudit:com,ai
+agentfirewall:com,ai
+agentops:com,ai
+agenttrace:com,ai
+agentsecurity:com,ai
+agentcompliance:com,ai
+agentregistry:com,ai
+agentinsurance:com,ai
+# AI 搜索 / GEO
+geoaudit:com,ai
+airanktracker:com,ai
+aisearchrank:com,ai
+aivisibility:com,ai
+llmrank:com,ai
+geoagency:com,ai
+citedby:com,ai
+aicitations:com,ai
+geooptimization:com,ai
+generativeengineoptimization:com,ai
+llmvisibility:com,ai
+aisearchaudit:com,ai
+rankinai:com,ai
+# 具身智能 / 人形机器人
+hirearobot:com,ai
+humanoidrental:com,ai
+robotsforhire:com,ai
+teleopdata:com,ai
+humanoidjobs:com,ai
+robotdata:com,ai
+worldmodels:com,ai
+humanoidmarket:com,ai
+robotleasing:com,ai
+rentahumanoid:com,ai
+humanoidfleet:com,ai
+embodiedai:com,ai
+# 低空 / 无人机
+vertiporthub:com,ai
+droneportnetwork:com
+evtolmarket:com,ai
+vertiport:com,ai
+dronedeliveryhub:com
+airtaxihub:com
+lowaltitudeeconomy:com
+# 储能 / 核能
+sodiumbattery:com,ai
+smrnuclear:com
+microreactors:com,ai
+microreactor:com,ai
+fusionjobs:com
+nuclearjobs:com
+gridstorage:com,ai
+sodiumion:com,ai
+solidstatebatteries:com
+datacenterpower:com,ai
+# 稳定币支付
+stablecoinpay:com,xyz
+stablecheckout:com,xyz
+stablepayroll:com,xyz
+stablepay:com,xyz
+stablecoinpayroll:com
+stablecoininvoice:com
+stablecoinpayments:com
+# 国防科技
+defensetechjobs:com
+dualusetech:com,ai
+counterdrone:com,ai
+counteruas:com,ai
